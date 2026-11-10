@@ -1,0 +1,29 @@
+﻿# 인증키
+api_key.txt
+its_key.txt
+
+# 공단 자료 (비공개)
+data/scenario.xlsx
+data/facilities.xlsx
+data/site_coords.json
+data/its_cache.json
+assets/sites/
+assets/logo.png
+assets/logo_full.png
+assets/videos/
+
+# 빌드 결과물
+build/
+dist/
+*.spec
+*.zip
+
+# 자동 생성 파일
+__pycache__/
+*.pyc
+.nicegui/
+desktop.ini
+
+# exe 빌드 결과물
+_internal/
+*.exe
